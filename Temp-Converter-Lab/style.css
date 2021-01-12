@@ -1,0 +1,22 @@
+h1 {
+  text-align: center
+ }
+
+.temp {
+border-style: solid;
+padding: .4rem;
+
+} 
+
+.btn {
+  background-color: blue;
+  text-emphasis-color: black ;
+  
+}
+.flex-container {
+ display: flex;
+ flex-direction: column;
+
+}
+
+ 

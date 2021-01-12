@@ -1,0 +1,25 @@
+HTML
+* Set Temperature Scale as the Title of the page
+* add the Fahrenheit, Value, Calculate and Celsius tags and labels
+* Make sure everything is centered in the box
+
+* Set Fahrenheit as the first column
+* Set Value and box to enter numbers in the middle
+* create a button to Calculate the information entered
+
+CSS 
+* add a h1 rule with a txt align to center the box and information
+* add a border rule to create my box and size it.
+*set a color for my button
+
+
+Javascript
+* link Javascript to HTML file 
+* Input the field to receive the numbers entered 
+* User should click the button to receive the answer
+* Plug users input Fahrenheit into the formula 
+ formula: Celsius = f9f-9/5)+32
+* Return the correct results
+* Update celsius text
+
+
